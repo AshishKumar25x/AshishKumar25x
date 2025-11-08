@@ -1,4 +1,4 @@
-*# 💫 About Me:
+# 💫 About Me:
 I am Ashish Kumar currently pursuing CSE from NIT Patna.<br>My deep interests lies in Web Development and Data Structures and Algorithm.
 
 
